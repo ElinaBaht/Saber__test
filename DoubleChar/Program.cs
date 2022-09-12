@@ -7,13 +7,18 @@ namespace SaberTestString
             string? phrase = Console.ReadLine();
             string newString = string.Empty;
 
-            for (int i = 0; i < phrase.Length - 1; i++)
+            char prev = phrase[0];
+            newString += phrase[0];
+
+            for (int i = 0; i < phrase.Length ; i++)
             {
                 
-                    if (phrase[i] != phrase[i + 1])
+                    if (phrase[i] != prev)
                     {
+                        prev = phrase[i];
                         newString += phrase[i];
-                    } 
+                    }
+                    
             }
             Console.WriteLine(newString);
 
