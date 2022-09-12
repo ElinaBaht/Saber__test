@@ -1,4 +1,3 @@
-﻿
 namespace SaberTestString
 {
     public class Test
@@ -10,23 +9,14 @@ namespace SaberTestString
 
             for (int i = 0; i < phrase.Length - 1; i++)
             {
-                for ( int j = i + 1; j < phrase.Length; j++)
-                {
-                    if (phrase[i] != phrase[j])
+                
+                    if (phrase[i] != phrase[i + 1])
                     {
                         newString += phrase[i];
-                    }
-                }
-                
-                    
-                   
-               
-                
+                    } 
             }
             Console.WriteLine(newString);
 
         }
-        
-
     }
 }
