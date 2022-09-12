@@ -113,8 +113,7 @@ namespace SaberTestBinary
 
                 }
                 rightBinaryCode = zeros.ToArray();
-            }
-            if (rightBinaryCode.Length % 8 == 0)
+            }else if (rightBinaryCode.Length % 8 == 0)
             {
   
                 List<int> zeros = new List<int>(rightBinaryCode);
