@@ -1,0 +1,15 @@
+C:\Projects\c#\SaberTest\SaberTest\bin\Debug\net6.0\SaberTestBinary.exe
+C:\Projects\c#\SaberTest\SaberTest\bin\Debug\net6.0\SaberTestBinary.deps.json
+C:\Projects\c#\SaberTest\SaberTest\bin\Debug\net6.0\SaberTestBinary.runtimeconfig.json
+C:\Projects\c#\SaberTest\SaberTest\bin\Debug\net6.0\SaberTestBinary.dll
+C:\Projects\c#\SaberTest\SaberTest\bin\Debug\net6.0\SaberTestBinary.pdb
+C:\Projects\c#\SaberTest\SaberTest\obj\Debug\net6.0\SaberTestBinary.csproj.AssemblyReference.cache
+C:\Projects\c#\SaberTest\SaberTest\obj\Debug\net6.0\SaberTestBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\SaberTest\SaberTest\obj\Debug\net6.0\SaberTestBinary.AssemblyInfoInputs.cache
+C:\Projects\c#\SaberTest\SaberTest\obj\Debug\net6.0\SaberTestBinary.AssemblyInfo.cs
+C:\Projects\c#\SaberTest\SaberTest\obj\Debug\net6.0\SaberTestBinary.csproj.CoreCompileInputs.cache
+C:\Projects\c#\SaberTest\SaberTest\obj\Debug\net6.0\SaberTestBinary.dll
+C:\Projects\c#\SaberTest\SaberTest\obj\Debug\net6.0\refint\SaberTestBinary.dll
+C:\Projects\c#\SaberTest\SaberTest\obj\Debug\net6.0\SaberTestBinary.pdb
+C:\Projects\c#\SaberTest\SaberTest\obj\Debug\net6.0\SaberTestBinary.genruntimeconfig.cache
+C:\Projects\c#\SaberTest\SaberTest\obj\Debug\net6.0\ref\SaberTestBinary.dll

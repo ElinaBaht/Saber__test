@@ -1,0 +1,15 @@
+C:\Projects\c#\SaberTest\ConsoleApp1\bin\Debug\net6.0\SaberTestString.exe
+C:\Projects\c#\SaberTest\ConsoleApp1\bin\Debug\net6.0\SaberTestString.deps.json
+C:\Projects\c#\SaberTest\ConsoleApp1\bin\Debug\net6.0\SaberTestString.runtimeconfig.json
+C:\Projects\c#\SaberTest\ConsoleApp1\bin\Debug\net6.0\SaberTestString.dll
+C:\Projects\c#\SaberTest\ConsoleApp1\bin\Debug\net6.0\SaberTestString.pdb
+C:\Projects\c#\SaberTest\ConsoleApp1\obj\Debug\net6.0\SaberTestString.csproj.AssemblyReference.cache
+C:\Projects\c#\SaberTest\ConsoleApp1\obj\Debug\net6.0\SaberTestString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\SaberTest\ConsoleApp1\obj\Debug\net6.0\SaberTestString.AssemblyInfoInputs.cache
+C:\Projects\c#\SaberTest\ConsoleApp1\obj\Debug\net6.0\SaberTestString.AssemblyInfo.cs
+C:\Projects\c#\SaberTest\ConsoleApp1\obj\Debug\net6.0\SaberTestString.csproj.CoreCompileInputs.cache
+C:\Projects\c#\SaberTest\ConsoleApp1\obj\Debug\net6.0\SaberTestString.dll
+C:\Projects\c#\SaberTest\ConsoleApp1\obj\Debug\net6.0\refint\SaberTestString.dll
+C:\Projects\c#\SaberTest\ConsoleApp1\obj\Debug\net6.0\SaberTestString.pdb
+C:\Projects\c#\SaberTest\ConsoleApp1\obj\Debug\net6.0\SaberTestString.genruntimeconfig.cache
+C:\Projects\c#\SaberTest\ConsoleApp1\obj\Debug\net6.0\ref\SaberTestString.dll
